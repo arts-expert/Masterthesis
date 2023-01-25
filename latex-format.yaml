@@ -1,0 +1,30 @@
+---
+# latex
+## layout
+classoption:
+  - titlepage
+  - listof=totoc
+  - listof=entryprefix
+documentclass: scrartcl
+geometry:
+  - top=30mm
+  - bottom=37mm
+  - left=25mm
+  - right=42mm
+  - heightrounded
+linestretch: 1.25
+papersize: a4
+
+## fonts
+fontsize: 12pt
+
+## links
+# colorlinks: true
+# linkcolor: red
+
+## front matter
+toc: true
+
+# vars set automatically - set these here because they are related to layout
+numbersections: true
+graphics: true

@@ -1,0 +1,34 @@
+---
+name: Generate PDF and ePUB
+
+on: push
+
+jobs:
+  generate_pdf:
+    name: Generate PDF
+    runs-on: ubuntu-20.04
+    container: docker://pandoc/latex:2.14.1
+    steps:
+      - name: Set up Git repository
+        uses: actions/checkout@v2
+      - name: Generate PDF using pandoc
+        run: ./generate-pdf.sh
+      - name: Upload PDF
+        uses: actions/upload-artifact@master
+        with:
+          name: out.pdf
+          path: out.pdf
+  generate_epub:
+    name: Generate ePUB
+    runs-on: ubuntu-20.04
+    container: docker://pandoc/latex:2.14.1
+    steps:
+      - name: Set up Git repository
+        uses: actions/checkout@v2
+      - name: Generate ePUB using pandoc
+        run: ./generate-epub.sh
+      - name: Upload ePUB
+        uses: actions/upload-artifact@master
+        with:
+          name: out.epub
+          path: out.epub

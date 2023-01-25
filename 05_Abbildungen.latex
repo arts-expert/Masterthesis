@@ -1,0 +1,14 @@
+\loadgeometry{figures-geo}
+
+\begin{figure}
+\hypertarget{abb-birgit}{%
+\centering
+\includegraphics[width=0.9\textwidth,height=\textheight]{Abbildungen/birgit.jpg}
+\captionsetup{width=0.9\textwidth}
+\caption{Birgit Jürgenssen, Totentanz mit Mädchen, S/W-Fotografien, Je
+40,5 x 29,5 cm, 1979-80/2017, Wien, Sammlung Verbund. Datenbank: Estate
+Birgit Jürgenssen.}\label{abb-birgit}
+}
+\end{figure}
+
+\loadgeometry{default-geo}

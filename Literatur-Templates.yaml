@@ -1,0 +1,125 @@
+---
+nocite: "[@*]"
+references:
+
+  # Monographie (einfaches Buch)
+  - author:
+      - family: Nachname
+        given: Vorname
+    edition: 2
+    id: idBuch
+    issued: 1900
+    publisher: Verlag
+    publisher-place: OrtDesVerlags
+    title: Titel des Buchs
+    type: book
+
+  # Buch mit mehreren Autoren
+  - author:
+      - family: Nachname1
+        given: Vorname1
+      - family: Nachname2
+        given: Vorname2
+      - family: Nachname3
+        given: Vorname3
+      - family: Nachname4
+        given: Vorname4
+      - family: Nachname5
+        given: Vorname5
+      - family: Nachname6
+        given: Vorname6
+    edition: 2
+    id: idBuchMehrererAutoren
+    issued: 1900
+    publisher: Verlag
+    publisher-place: OrtDesVerlags
+    title: Titel des Buchs
+    type: book
+
+  # Sammelband
+  - author:
+      - family: NachnameAutor
+        given: Vorname
+    collection-editor:
+      - family: NachnameHerausgeber
+        given: Vorname
+    container-title: Titel des Sammelbands
+    edition: 3
+    id: idSammelband
+    issued: 1920
+    page: 100-105
+    publisher: Verlag
+    publisher-place: Ort des Verlags
+    title: Titel des Beitrags
+    type: book
+
+  # Austellungskatalog
+  - author:
+      - family: NachnameAutor
+        given: Vorname
+    collection-editor:
+      - family: NachnameHerausgeber
+        given: Vorname
+    container-title: Name der Ausstellung (Ausst.Kat.)
+    edition: 3
+    id: idAusstellungskatalog
+    issued: 1920
+    page: 100-105
+    publisher: Name des Verlags
+    publisher-place: Ort des Verlags
+    title: Titel des Beitrags
+    type: book
+
+  # Dissertation
+    # da Dissertationen in den Geisteswissenschaften ja wie ein Buch verlegt
+    # werden, sollten sie wohl auch als solches zitiert werden. 'thesis' bietet
+    # sich vieleicht für (noch) nicht verlegte Dissertationen an?
+  - author:
+      - family: Nachname
+        given: Vorname
+    genre: Dissertation
+    id: idDissertation
+    issued: 1910
+    publisher: Name der Universität
+    title: Titel der Dissertation
+    type: thesis
+
+  # Magazin
+  - author:
+      - family: Nachname
+        given: Vorname
+    container-title: Name des Magazins
+    id: idMagazin
+    issue: 1
+    issued:
+      - year: 2021
+    title: Titel des Artikels
+    type: article-magazine
+    volume: 22
+
+  # Lexikon
+  - collection-editor:
+      - family: Nachname
+        given: Vorname
+    container-title: Titel des Lexikons
+    id: idLexikon
+    issued: 1972
+    publisher: Name des Verlags 
+    publisher-place: Ort des Verlags
+    title: Title des Eintrags
+    type: entry-dictionary
+    volume: 4
+
+  # Rede
+  - author:
+      - family: Nachname
+        given: Vorname
+    event: Name des Events
+    event-place: Ort des Events
+    id: idRede
+    issued:
+      - year: 2021
+        month: 1
+        day: 1
+    title: Titel der Rede
+    type: speech

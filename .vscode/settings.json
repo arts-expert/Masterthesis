@@ -1,0 +1,64 @@
+{
+    "insert-unicode.favorites": {
+        "directories": {},
+        "items": [
+            [
+                263
+            ]
+        ]
+    },
+    "markdown.styles": [
+        ".vscode/latex.css"
+    ],
+    "cSpell.language": "de,en-US",
+    "cSpell.words": [
+        "abramović",
+        "baldung",
+        "bedränger",
+        "beham",
+        "behams",
+        "benthien",
+        "diekhoff",
+        "emanzipative",
+        "entgegenehmens",
+        "flemming",
+        "geschäftigkeiten",
+        "gierke",
+        "grien",
+        "griens",
+        "gryphius",
+        "hopfer",
+        "hopfers",
+        "kohelet",
+        "kubler",
+        "legner",
+        "maslow",
+        "mura",
+        "proverbia",
+        "scheinhaftigkeit",
+        "schnitter",
+        "sebald",
+        "symbolhaftigkeit",
+        "ureltern",
+        "ursünde",
+        "vanitas",
+        "vanitasgedanke",
+        "vergeblichkeitsgedanken"
+    ],
+    "cSpell.ignoreWords": [
+        "contemptus",
+        "ecclesiates",
+        "facta",
+        "häväl",
+        "mori",
+        "mortalia",
+        "mundi",
+        "omnia",
+        "peribunt",
+        "tantz",
+        "transi",
+        "vanitatum",
+        "īdal",
+        "ītel"
+    ]
+}

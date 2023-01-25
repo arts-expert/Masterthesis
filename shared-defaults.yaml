@@ -1,0 +1,9 @@
+---
+from: markdown
+metadata-files:
+  - Metadaten.yaml
+
+citeproc: true
+csl: lus-citation-compass-apa-note.csl
+bibliography:
+  - Literatur.yaml

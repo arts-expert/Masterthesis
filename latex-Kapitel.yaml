@@ -1,0 +1,12 @@
+---
+input-files:
+  - template/before-chapters.latex
+  - 01_Einleitung.md
+  - 01_Abbildungen.latex
+  - 02_Vanitas.md
+  - 02_Abbildungen.latex
+  - 03_ErosThanatos.md
+  - 03_Abbildungen.latex
+  - 04_AktuellePositionen.md
+  - 05_Abschlussbetrachtung.md
+  - 05_Abbildungen.latex

@@ -1,0 +1,11 @@
+---
+input-files:
+  - 01_Einleitung.md
+  - tmp/01_Abbildungen.latex.md
+  - 02_Vanitas.md
+  - tmp/02_Abbildungen.latex.md
+  - 03_ErosThanatos.md
+  - tmp/03_Abbildungen.latex.md
+  - 04_AktuellePositionen.md
+  - 05_Abschlussbetrachtung.md
+  - tmp/05_Abbildungen.latex.md

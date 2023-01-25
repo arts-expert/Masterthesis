@@ -1,0 +1,74 @@
+\loadgeometry{figures-geo}
+
+\begin{figure}
+\hypertarget{abb-jung}{%
+\centering
+\includegraphics[width=\textwidth,height=\textheight]{Abbildungen/jungfrau_tod.jpg}
+\caption{Matthäus Merian d.Ä., Der Tod zur Jungfrau, aus: Todten-Tanz.
+wie derselbe in der löblichen und weit berühmten Stadt Basel
+{[}\ldots{]} zu sehen ist, Radierung, 1649. Datenbank: DILPS,
+Ruhr-Universität Bochum, Kunstgeschichtliches Institut, Ruhr-Universität
+Bochum.}\label{abb-jung}
+}
+\end{figure}
+
+\begin{figure}
+\hypertarget{abb-jungtod}{%
+\centering
+\includegraphics[width=0.65\textwidth,height=\textheight]{Abbildungen/grien_jung_tod.jpg}
+\captionsetup{width=0.65\textwidth}
+\caption{Hans Baldung Grien, Der Tod verfolgt ein Mädchen, Öl auf Holz,
+30,8 x 16,7 cm, um 1513, Florenz, Museo Nazionale del Bargello.
+Datenbank: Jacob-Friesen, Holger. (2019) \emph{Hans Baldung Grien:
+heilig-unheilig}. (Ausst.Kat.) (S.243). Berlin; Deutscher
+Kunstverlag}\label{abb-jungtod}
+}
+\end{figure}
+
+\begin{figure}
+\hypertarget{abb-jungwoll}{%
+\centering
+\includegraphics[width=0.6\textwidth,height=\textheight]{Abbildungen/grien_jung_woll.jpg}
+\captionsetup{width=0.6\textwidth}
+\caption{Hans Baldung Grien, Der Tod und das Mädchen, Öl auf Holz, 30,3
+x 14,7 cm, 1517, Basel, Kunstmuseum Basel. Datenbank: Jacob-Friesen,
+Holger. (2019) \emph{Hans Baldung Grien: heilig-unheilig}. (Ausst.Kat.)
+(S.243). Berlin; Deutscher Kunstverlag}\label{abb-jungwoll}
+}
+\end{figure}
+
+\begin{figure}
+\hypertarget{abb-deutsch}{%
+\centering
+\includegraphics[width=\textwidth,height=\textheight]{Abbildungen/deutsch_tod.jpg}
+\caption{Niklaus Manuel Deutsch, Der Tod und das Mädchen (Der Tod als
+Kriegsknecht umfasst ein junges Weib), Mischtechnik auf Holz
+(Rückseite), 38,2 x 29,2, 1517, Basel, Kunstmuseum Basel. Datenbank:
+Kunstmuseum Basel.}\label{abb-deutsch}
+}
+\end{figure}
+
+\begin{figure}
+\hypertarget{abb-horst}{%
+\centering
+\includegraphics[width=0.9\textwidth,height=0.9\textheight]{Abbildungen/horst_janssen.jpg}
+\caption{Horst Janssen, Liebesszene (Tod und Mädchen), Radierung, 1985,
+Datenbank: zit. n.~Liß, Jenniger \& Stahl, Sophie. (2010) Der gehörnte
+Tod. In S. Knöll (Hrsg.), \emph{Frauen-Sünde-Tod} (S. 129). Düsseldorf
+University Press; Düsseldorf.}\label{abb-horst}
+}
+\end{figure}
+
+\begin{figure}
+\hypertarget{abb-seitz}{%
+\centering
+\includegraphics[width=0.9\textwidth,height=\textheight]{Abbildungen/seitz.jpg}
+\captionsetup{width=0.9\textwidth}
+\caption{Horst Janssen, Liebesszene (Tod und Mädchen), Radierung, 1985,
+Datenbank: zit. n.~Liß, Jenniger \& Stahl, Sophie. (2010) Der gehörnte
+Tod. In S. Knöll (Hrsg.), \emph{Frauen-Sünde-Tod} (S. 130). Düsseldorf
+University Press; Düsseldorf.}\label{abb-seitz}
+}
+\end{figure}
+
+\loadgeometry{default-geo}

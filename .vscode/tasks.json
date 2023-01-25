@@ -1,0 +1,38 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Generate PDF",
+            "type": "shell",
+            "command": "./generate-pdf.sh",
+            "problemMatcher": [],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+        {
+            "label": "Generate ePUB",
+            "type": "shell",
+            "command": "./generate-epub.sh",
+            "problemMatcher": [],
+            "group": "build"
+        },
+        {
+            "label": "Clean",
+            "type": "shell",
+            "command": "rm -f out.*",
+            "problemMatcher": [],
+            "group": "build"
+        },
+        {
+            "label": "Count words",
+            "type": "shell",
+            "command": "wc -w 0[1-9]*.md",
+            "group": "none",
+            "problemMatcher": []
+        }
+    ]
+}

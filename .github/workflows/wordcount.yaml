@@ -1,0 +1,29 @@
+---
+name: Word count
+
+on: push
+
+jobs:
+  build:
+    name: Count words in markdown files
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Count words
+        run: |
+          echo 'WORD_COUNT<<EOF' >> $GITHUB_ENV
+          cat 0[1-9]*.md | wc -w >> $GITHUB_ENV
+          echo 'EOF' >> $GITHUB_ENV
+
+      - name: Create Lines-of-Code-Badge
+        uses: schneegans/dynamic-badges-action@v1.1.0
+        with:
+          auth: ${{ secrets.GIST_SECRET }}
+          gistID: dec8c9ee77db806470e2b97ea55a9bad
+          filename: word_count.json
+          label: Word count
+          message: ${{ env.WORD_COUNT }}
+          color: blue

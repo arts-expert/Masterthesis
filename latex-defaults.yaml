@@ -1,0 +1,10 @@
+---
+output-file: out.latex
+template: template/my-template.latex
+metadata-files:
+  - latex-format.yaml
+include-in-header:
+  - template/header.latex
+include-after-body:
+  - template/after-body.latex
+  - tmp/Eigenständigkeitserklärung.latex

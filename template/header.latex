@@ -1,0 +1,12 @@
+\addtokomafont{section}{\clearpage}
+\addtokomafont{section}{\setstretch{1}}
+
+\newcommand{\mycaption}[2]{\caption[#1#2]{#1}}
+
+% unfortunaetly pandoc can use variables only in templates, not in header-includes
+\RedeclareSectionCommand[tocbeforeskip=20pt]{section}
+\DeclareTOCStyleEntry[beforeskip=.25cm]{section}{section}
+\DeclareTOCStyleEntry[beforeskip=.25cm]{default}{subsection}
+\DeclareTOCStyleEntry[beforeskip=.25cm]{default}{subsubsection}
+
+\usepackage{caption}

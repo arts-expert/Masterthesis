@@ -1,0 +1,27 @@
+\loadgeometry{figures-geo}
+
+\begin{figure}
+\hypertarget{abb-hopfer}{%
+\centering
+\includegraphics[width=\textwidth,height=\textheight]{Abbildungen/Hopfer_Tod_Teufel.jpg}
+\caption{Daniel Hopfer, Tod und Teufel überraschen zwei Frauen,
+Radierung, 15,6 x 22,9 cm, ca. 2. Hälfte 17. Jhd., Dresden, Staatliche
+Kunstsammlungen Dresden. Datenbank: Staatliche Kunstsammlungen
+Dresden.}\label{abb-hopfer}
+}
+\end{figure}
+
+\begin{figure}
+\hypertarget{abb-alter}{%
+\centering
+\includegraphics[width=0.8\textwidth,height=\textheight]{Abbildungen/Grien_Drei_Lebensalter.jpg}
+\captionsetup{width=0.8\textwidth}
+\caption{Hans Baldung Grien, Die drei Lebensalter und der Tod, Öl auf
+Holz, 48 x 32 cm, 1509-1510, Wien, Kunsthistorisches Museum Wien.
+Datenbank: HeidICON - Europäische Kunstgeschichte,
+Ruprecht-Karl-Universität Heidelberg,
+Universitätsbibliothek}\label{abb-alter}
+}
+\end{figure}
+
+\loadgeometry{default-geo}

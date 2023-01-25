@@ -1,0 +1,11 @@
+*.docx
+*.pdf
+*.epub
+*.csl
+*.log
+*.aux
+*.lof
+*.toc
+out.*
+tmp.*
+tmp/
