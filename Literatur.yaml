@@ -5,17 +5,68 @@ references:
   # Bücher
 
   - author:
-      - family: Hanssen
-        given: Elisabet
-    container-title: >-
-      Art in Context. A publication series based on the collection of The
-      National Museum of Contemporary Art
-    id: hanssen2001mirror
-    issued: 2001
-    publisher: The National Museum of Contemporary Art Oslo
-    publisher-place: Oslo
-    title: Cleaning the Mirror I
+      - family: Hall
+        given: James
+    id: hall1983idea
+    issued: 1983
+    publisher: John Murray
+    publisher-place: London
+    title: History of Ideas and Images in Italian Art
     type: book
+
+  - author:
+      - family: Bissel
+        given: R. Ward
+    id: bissell1981
+    issued: 1981
+    publisher: The Pennsylvania State University
+    publisher-place: University Park [u.a]
+    title: Orazio Gentileschi and the Poetic Tradition in Caravaggesque Painting
+    type: book
+
+  - author:
+      - family: Miles
+        given: Margaret R.
+    id: miles2008breast
+    issued: 2008
+    publisher: University of California Press
+    publisher-place: Berkley, California [u.a.]
+    title: A Compley Delight. The Secularization of the Breast, 1350-1750
+    type: book
+
+  - author:
+      - family: Christiansen
+        given: Keith
+    collection-editor:
+      - family: Christiansen
+        given: Keith
+      - family: Mann
+        given: Judith W.
+    container-title: Orazio and Artemisia Gentileschi (Ausst.Kat.)
+    id: orazio2001christiansen
+    issued: 2001
+    page: 100-105
+    publisher: The Metropolitan Museum of Art, Yale University Press
+    publisher-place: New Haven [u.a.]
+    title: Titel des Beitrags
+    type: book 
+
+  - author:
+      - family: Shimada
+        given: Norio
+    collection-editor:
+      - family: Mărginean
+        given: Viorel
+      - family: Lungu
+        given: Alexandru C.
+    container-title: 16th-18th Century European Paintings National Museum of Art of Romania and The National Brukenthal Museum (Ausst.Kat.)
+    id: japan1995painting
+    issued: 1995
+    page: 27-32
+    publisher: The Mainichi Newspaper
+    publisher-place: Japan
+    title: The Grand Era of European Painting - Italian and Flemish Painting in the 16th-18th Centuries
+    type: book 
 
   # Magazine
 
