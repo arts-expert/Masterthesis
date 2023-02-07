@@ -15,6 +15,44 @@ references:
     type: book
 
   - author:
+      - family: Seichter
+        given: Sabine
+    edition: 2
+    id: seichter2020
+    issued: 2020
+    publisher: Beltz Juventa
+    publisher-place: Weinheim
+    title: Erziehung an der Mutterbrust. Eine kritische Kulturgeschichte des Stillens
+    type: book
+
+  - author:
+      - family: Kurmann-Schwarz
+        given: Brigitte
+    collection-editor:
+      - family: Kemperdick
+        given: Stephan
+    container-title: >
+      Jean Fouquet: das Diptychon von Melun (Ausst.Kat.)
+    id: kurmannschwarz
+    issued: 2017
+    page: 70-82
+    publisher: Michael Imhof Verlag
+    publisher-place: Petersberg
+    title: Regina angelorum et misericordiae - Zu Bildtypus und Ikonographie der Madonna in Fouquets Diptychon von Melun
+    type: book
+
+  - author:
+      - family: Finucci
+        given: Valeria
+    id: prince2015
+    issued: 2015
+    publisher: Harvard University Press
+    publisher-place: Cambridge [u.a]
+    title: >
+      The Prince's Body: Vincenzo Gonzaga and Renaissance Medicine
+    type: book
+
+  - author:
       - family: Bissel
         given: R. Ward
     id: bissell1981
@@ -67,6 +105,59 @@ references:
     publisher-place: Japan
     title: The Grand Era of European Painting - Italian and Flemish Painting in the 16th-18th Centuries
     type: book 
+
+  - author:
+      - family: Sperling
+        given: Jutta Gisela
+    edition: 
+    id: sperling2016queer
+    issued: 2016
+    publisher: transcript Verlag
+    publisher-place: Bielefeld
+    title: >
+      Roman Charity: Queer Lactations in Early Modern Visual Culture
+    type: book
+
+  - author:
+      - family: Weick-Joch
+        given: Katharina
+    edition: 
+    id: joch2015bambo
+    issued: 2015
+    publisher: VDG
+    publisher-place: Weimar
+    title: >
+      Kulturtransfer im Rom des 17. Jahrhunderts: die Malerei der Bamboccianti
+    type: book
+  
+ - author:
+      - family: Bonfante
+        given: Larissa
+    collection-editor:
+      - family: Koloski-Ostrow
+        given: Ann Olga
+      - family: Lyons
+        given: Claire L.
+    container-title: >
+      Naked Truths: Women, Sexuality, and gender in Classical Art and Archaeology
+    id: bonfante1997naked
+    issued: 1997
+    page: 174–198
+    publisher: Routledge
+    publisher-place: London
+    title: Nursing Mothers in Classical Art
+    type: book
+  
+  - author:
+      - family: Bachelin
+        given: Léon
+    edition: 
+    id: bachelin1898
+    issued: 1898
+    publisher: Braun, Clément & C.
+    publisher-place: Paris
+    title: Tableaux anciens de la galerie Charles Ier roi de Roumanie
+    type: book
 
   # Magazine
 
