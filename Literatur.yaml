@@ -18,7 +18,7 @@ references:
       - family: Seichter
         given: Sabine
     edition: 2
-    id: seichter2020
+    id: seichter2020erziehung
     issued: 2020
     publisher: Beltz Juventa
     publisher-place: Weinheim
@@ -130,7 +130,7 @@ references:
       Kulturtransfer im Rom des 17. Jahrhunderts: die Malerei der Bamboccianti
     type: book
   
- - author:
+  - author:
       - family: Bonfante
         given: Larissa
     collection-editor:
@@ -159,8 +159,182 @@ references:
     title: Tableaux anciens de la galerie Charles Ier roi de Roumanie
     type: book
 
+  - author:
+      - family: Hersche
+        given: Peter
+    id: hersche1999italien
+    issued: 1999
+    publisher: Böhlau
+    publisher-place: Wien
+    title: >
+      Italien im Barockzeitalter: Eine Sozial- und Kulturgeschichte
+    type: book
+
+  - author:
+      - family: Burschel
+        given: Peter
+    collection-editor:
+      - family: Prodi
+        given: Paolo
+      - family: Reinhard
+        given: Wolfgang
+    container-title: Das Konzil von Trient und die Moderne
+    edition: (Schriften des Italienisch-Deutschen Historischen Instituts in Trient; Bd. 16)
+    id: burschel2001trient
+    issued: 2001
+    page: 241-261
+    publisher: Duncker und Humblot
+    publisher-place: Berlin
+    title: >
+      "Imitatio sanctorum". Oder: Wie modern war der nachtridentische Heiligenhimmel?
+    type: book
+
+  - author:
+      - family: Warner
+        given: Marina
+    edition: First Published in Paperback
+    id: warner2016mary
+    issued: 2016
+    publisher: Oxford University Press
+    publisher-place: Oxford
+    title: >
+      Alone of all her Sex: The Myth & the Cult of the Virgin Mary
+    type: book
+  
+  - author:
+      - family: Feld
+        given: Helmut
+    id: feld1990bild
+    issued: 1990
+    publisher: Brill
+    publisher-place: Leiden, New York, København, u.a.
+    title: Der Ikonoklasmus des Westens
+    type: book
+
+  - author:
+      - family: Dragu
+        given: Mariana
+    collection-editor:
+      - family: Beldiman
+        given: Iona
+      - family: Jotzu
+        given: Ruxandra
+    container-title: >
+      Von Cranach bis Monet : Europäische Meisterwerke aus dem Nationalen Kunstmuseum Bukarest (Ausst.Kat.)
+    id: cranach1993orazio
+    issued: 1993
+    page: 54
+    publisher: Altana-AG [u.a.]
+    publisher-place: Bad Homburg v.d. Höhe
+    title: Orazio Gentileshci
+    type: book
+
   # Magazine
 
+  - author:
+      - family: Papi
+        given: Gianni
+      - family: Bischoff
+        given: Nina Gram
+      - family: Ford
+        given: Thierry
+    container-title: The Burlington Magazine
+    id: papi2019burlington
+    issue: 161
+    issued:
+      - year: 2019
+    page: 
+    title: Orazio and Artemisia Gentileschi and 'Judith and her maidservant' in Oslo
+    type: article-magazine
+    volume: 2
+  
+  - author:
+      - family: Colombo
+        given: Anna Maria 
+    container-title: Arte Cristiana
+    id: colombo2022gentileschi
+    issue: 110
+    issued:
+      - year: 2022
+    page: 122-131
+    title: Camicie nel guardaroba dei Gentileschi
+    type: article-magazine
+    volume: 
+    
+  - author:
+      - family: Haas
+        given: Louis
+    id: haas1998child
+    issued: 1998
+    publisher: Macmillan Press Ltd.
+    publisher-place: Basingstoke [u.a.]
+    title: >
+      The Renaissance Man and his Children: Childbirth and early Childhood in Florence 1300-1600
+    type: book
+
+  - author:
+      - family: Holmes
+        given: Megan
+    collection-editor:
+      - family: Johnson
+        given: Geraldine A.
+      - family: Matthews Grieco
+        given: Sara F.
+    container-title: Picturing Women in Renaissance and Baroque Italy
+    id: idSammelband
+    issued: 1997
+    page: 167-196
+    publisher: Cambridge University Press
+    publisher-place: Cambridge
+    title: >
+      Disrobing the Virgin: The _Madonna lactans_ in Fifteenth-Century Florentine Art
+    type: book
+
+  - author:
+      - family: Sperling
+        given: Jutta Gisela
+    container-title: The Journal of Medieval and Early Modern Studies
+    id: sperling2021venice
+    issue: 2
+    issued:
+      - year: 2021
+    title: >
+      Milk and Miracles: Heteroglossia and Dissent in Venetian Religious Art after the Council of Trent
+    type: article-magazine
+    volume: 51
+
+  - author:
+      - family: Spitzer
+        given: Beatrix
+    id: spitzer1999rosengarten
+    issued: 1999
+    publisher: Staude
+    publisher-place: Hannover
+    title: >
+      Der zweite Rosengarten: Eine Geschichte der Geburt
+    type: book
+
+  - author:
+      - family: Laurence
+        given: Susan
+    id: laurence2018cradle
+    issued: 2018
+    publisher: Unicorn Press
+    publisher-place: Norwich
+    title: >
+      The Hand that Rocked the Cradle: The Art of Birth and Infancy
+    type: book
+
+  - author:
+      - family: Steinberg
+        given: Leo
+    edition: 2
+    id: steinberg
+    issued: 2006
+    publisher: The University of Chicago Press
+    publisher-place: Chicago, London
+    title: The Sexuality of Christ in Renaissance Art in Modern Oblivion
+    type: book
   # Lexika
 
   # Reden

@@ -5,8 +5,7 @@ und Seife sowie das Atmen der Künstlerin untermalen die bizarren Bilder, welche
 die fünf übereinandergestapelten Monitore 1995 im Museum of Modern Art in Oxford
 zum ersten Mal übertrugen.[vgl. @hanssen2001mirror,S.23] Marina Abramović'
 Videoinstallation _Cleaning the Mirror I_ zeigt grotesk die serbische
-Performance-Künstlerin beim Säubern eines Skelettes von Staub und Schmutz ([Abb.
-1](#abb-mirror1)).
+Performance-Künstlerin beim Säubern eines Skelettes von Staub und Schmutz
 
 _Cleaning the Mirror_ (I, II und III) ist Namensgeber für eine dreiteilige
 Performance, welche Abramović Mitte der 1990er Jahre erarbeitete, wobei die
