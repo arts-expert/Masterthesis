@@ -1,4 +1,4 @@
-# Stillen Diskurs
+# (Gestillte) Fürsorge? Medizinische und philosophische Diskurse um Mutterschaft und Stillen im 16. und 17. Jahrhundert
 
 Im folgenden Kapitel sollen zunächst die soziokulturellen Umständen des Stillens
 betrachtet, sowie dessen medizinische und philosophische Diskurse, als auch das im
@@ -8,9 +8,9 @@ den Diskurs um das Stillen der Frauen in Italien im 16. und 17. Jahrhundert?
 Zunächst ist festzustellen, dass die Debatte um das Selbststillen und die
 Versorgung der Kinder nie eine war, mit welcher sich Frauen im öffentlichen
 Diskurs vorrangig auseinandersetzen konnten. Dieser Umstand ist mit der  
-gesellschaftlichen Stellung der Frau als "minderwertiges Geschöpf"[^2c2] und ihrer
+gesellschaftlichen Stellung der Frau als "minderwertiges Geschöpf"[^6c2] und ihrer
 damit einhergehenden (geforderten) passiven Rolle seit der Antike bis in die Frühe
-Neuzeit zu begründen.[^2c1] Bereits Aristoteles 
+Neuzeit zu begründen.[^6c1] Bereits Aristoteles
 
 als der Frau in der Gesellschaft als dem dass sich die
 Auseinandersetzung mit dem mütterlichen Stillen von Kindern bereits in der
@@ -114,6 +114,6 @@ Mutterbrust, jedoch nicht direkt nach der Geburt, da die Mutter zu erschöpft wa
 
 Zum Thema Ammenkultur und wie das ganze funktioniert hat siehe @haas1998child
 
-[^2c1]: vgl. @seichter2020erziehung [S.12,17]
+[^6c1]: vgl. @seichter2020erziehung [S.12,17]
 
-[^2c2]: Siehe hierzu Aristoteles
+[^6c2]: Siehe hierzu Aristoteles

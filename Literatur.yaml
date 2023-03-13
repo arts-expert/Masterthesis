@@ -15,6 +15,17 @@ references:
     type: book
 
   - author:
+      - family: de Voraigne
+        given: Jacobus
+    edition: 2
+    id: voraigne2016aurea
+    issued: 2016
+    publisher: Reclam
+    publisher-place: Stuttgart
+    title: Legenda aurea
+    type: book
+
+  - author:
       - family: Seichter
         given: Sabine
     edition: 2
@@ -227,6 +238,23 @@ references:
     publisher: Altana-AG [u.a.]
     publisher-place: Bad Homburg v.d. Höhe
     title: Orazio Gentileshci
+    type: book
+
+  - author:
+      - family: Valerio
+        given: Adriana
+    collection-editor:
+      - family: Giordano
+        given: Maria Laura
+      - family: Valerio
+        given: Adriana
+    container-title: Das katholische Europa im 16.-18. Jahrhundert
+    id: valerio2019europa
+    issued: 2019
+    page: 13-41
+    publisher: W. Kohlhammer GmbH
+    publisher-place: Stuttgart
+    title: Die Bibel, die Frauen und die Krise des neuzeitlichen Europa
     type: book
 
   # Magazine

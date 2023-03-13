@@ -3,9 +3,8 @@ input-files:
   - template/before-chapters.latex
   - 01_Einleitung.md
   - 01_Abbildungen.latex
-  - 02_Bildbeschreibung.md
-  - "03_Die stillende Gottesmutter: Das Motiv der Madonna Lactans und Muttermilch als Kultobjekt.md"
+  - 02_Madonna_Lactans.md
+  - 03_Fürsorge.md
   - 04_Einleitung_Template.md
   - 05_Marienverehrung_um_1600.md
-  - 06_Stillen_Diskurs.md
   - 07_Notizen.md

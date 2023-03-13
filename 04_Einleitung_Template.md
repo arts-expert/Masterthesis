@@ -9,9 +9,9 @@ Performance-Künstlerin beim Säubern eines Skelettes von Staub und Schmutz
 
 _Cleaning the Mirror_ (I, II und III) ist Namensgeber für eine dreiteilige
 Performance, welche Abramović Mitte der 1990er Jahre erarbeitete, wobei die
-Teile I und II im Fokus dieser Arbeit stehen.[^1c4]
+Teile I und II im Fokus dieser Arbeit stehen.[^XcY]
 
-[^1c4]: Während _Cleaning the Mirror I_ und _II_ thematisch stärker miteinander
+[^XcY]: Während _Cleaning the Mirror I_ und _II_ thematisch stärker miteinander
 verschränkt sind, unterscheidet sich _Cleaning the Mirror III_ inhaltlich sehr.
 Für diese Performance wählte Abramović sieben Ausstellungsobjekte aus dem Pitt
 Rivers Museum, ließ sie nacheinander auf einem Tisch platzieren während sie ihre
